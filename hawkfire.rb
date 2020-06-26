@@ -3,8 +3,8 @@ require "formula"
 class Hawkfire < Formula
   desc "Hawkfire - Superhero Utility for Kubernetes Miroservice"
   homepage "https://www.tapo.com/"
-  url "https://s3-us-east-1.amazonaws.com/tpra-dev-tmp/hawkfire/hawkfire-1.0.0.tar.gz"
-  sha256 "4cdf5067e983453f9a9d27ec2f97ea922a964c3ebc026e9ad393126e6e58270c"
+  url "https://tpra-dev-tmp.s3.amazonaws.com/hawkfire/hawkfire-1.0.0.tar.gz"
+  sha256 "75b7dd659d3678cbb070607e7f2e843db6ce00a664e619da20b3c3f9228c853a"
 
   depends_on "node"
   depends_on "yarn"
