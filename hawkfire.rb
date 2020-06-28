@@ -4,7 +4,7 @@ class Hawkfire < Formula
   desc "Hawkfire - Superhero Utility for Kubernetes Miroservice"
   homepage "https://www.tapo.com/"
   url "https://tpra-dev-tmp.s3.amazonaws.com/hawkfire/hawkfire-1.0.0.tar.gz"
-  sha256 "75b7dd659d3678cbb070607e7f2e843db6ce00a664e619da20b3c3f9228c853a"
+  sha256 "fd37567b2545627b0c15adfd289c2f6e170dd50408145e276c72ca44a213ddaa"
 
   depends_on "node"
   depends_on "yarn"
